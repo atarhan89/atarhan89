@@ -9,6 +9,7 @@ My Projects
 Expertise
 
 Front End Development (React): I'm proficient in React and enjoy building dynamic and responsive user interfaces.
+
 QA Testing: I'm experienced in quality assurance testing and take pride in delivering bug-free software.
 
 <img align="left" alt="Java" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /> Java: I'm proficient in Java and enjoy building scalable and robust applications.
