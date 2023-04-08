@@ -4,7 +4,7 @@ Hi, I'm Abdurrahman TARHAN!
 I'm a software developer who enjoys contributing to open source projects. With this GitHub account, I wanted to create a place to share my projects, keep track of them, and enable others to contribute.
 
 My Projects
-"I am using Java, Kotlin, HTML, CSS, and React in my projects."
+"I am using Java, JavaScript, HTML, CSS, and React in my projects."
 
 Expertise
 
